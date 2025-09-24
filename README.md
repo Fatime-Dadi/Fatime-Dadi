@@ -1,69 +1,84 @@
-# Hi, I'm Fatime Dadi Wardougou 👋
+# Bonjour! مرحبا! Hello! I'm Fatime Dadi Wardougou 🌍
 
-**Senior Software Engineering Student & Full-Stack Developer from AUCA**
+### Software Engineering Student | Full-Stack Developer | Data Enthusiast
 
-- 🎓 Studying Software Engineering at Adventist University of Central Africa (AUCA)
-- 🌱 Deeply passionate about **Mathematics, Geometry, and Full-Stack Development**
-- 💼 Open to internships and collaborative projects in software development
-- 🎯 Aspiring to solve complex problems through elegant software solutions
-
----
-
-### 🛠️ Tech Stack & Skills
-
-**Frontend Development:**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Backend & Databases:**
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-
-**Tools & Design:**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![UML](https://img.shields.io/badge/UML-Modeling-FF6F00?style=for-the-badge&logo=diagrams.net&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GeoGebra](https://img.shields.io/badge/GeoGebra-28A8EA?style=for-the-badge&logo=geogebra&logoColor=white)
-
-**Languages:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![French](https://img.shields.io/badge/French-Fluent-0055A4?style=for-the-badge&logo=france&logoColor=white)
-![English](https://img.shields.io/badge/English-Advanced-FF0000?style=for-the-badge&logo=english&logoColor=white)
-![Arabic](https://img.shields.io/badge/Arabic-Intermediate-006400?style=for-the-badge&logo=arabic&logoColor=white)
+**`const profile = {`**  
+**`  education: "Adventist University of Central Africa",`**  
+**`  focus: "Web Development & Data Analysis",`**  
+**`  passion: "Turning complex problems into elegant solutions",`**  
+**`  languages: ["French", "Arabic", "English"]`**  
+**`};`**
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ My Technical Arsenal
 
-![Fatime's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fatime-Dadi&show_icons=true&theme=radical)
+### **Frontend Craftsmanship**
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatime-Dadi&layout=compact&theme=radical)
+### **Backend Engineering**
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-%23F80000.svg?style=flat-square&logo=oracle&logoColor=white)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fatime-Dadi&theme=radical)
+### **Data & Analytics**
+![Power BI](https://img.shields.io/badge/Power_BI-%23F2C811.svg?style=flat-square&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat-square&logo=jupyter&logoColor=white)
+
+### **Design & Tools**
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![GeoGebra](https://img.shields.io/badge/GeoGebra-%2328A8EA.svg?style=flat-square&logo=geogebra&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-### 📫 Let's Connect!
+## 📊 GitHub Analytics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fatime_Dadi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatime-dadi-4842762a5/)
-[![Twitter](https://img.shields.io/badge/Twitter-@fatimeword34251-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/fatimeword34251)
-[![Email](https://img.shields.io/badge/Email-fatimewordou@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatimewordou@gmail.com)
+<div align="center">
+  
+![Fatime's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fatime-Dadi&show_icons=true&theme=algolia&hide_border=true&bg_color=45,667eea,764ba2)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatime-Dadi&layout=compact&theme=algolia&hide_border=true&bg_color=45,f093fb,f5576c)
 
-### 🎯 Currently Focusing On
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fatime-Dadi&theme=algolia&hide_border=true&background=45,667eea,764ba2)
 
-- 🔷 Advanced Geometry & Mathematical Modeling with GeoGebra
-- 💻 Full-Stack Development with React & Spring Boot
-- 🗃️ Database Design & SQL Optimization
-- 🎨 UI/UX Design with Figma
+</div>
 
 ---
 
-### 💡 Problem-Solving Approach
+## 🌟 What Drives Me
 
-> "Combining mathematical precision with creative software solutions to build applications that are both functional and elegant."
+> **"I believe in building software that not only functions flawlessly but also tells a story. My multicultural background (French & Arabic fluency with intermediate English) gives me a unique perspective on creating inclusive, user-centered applications."**
+
+### Current Focus Areas:
+- 🔷 **Advanced Web Applications** with React & Spring Boot
+- 📈 **Data Visualization** using Power BI and Python
+- 🎨 **UI/UX Design** principles for better user experiences
+- 🗃️ **Database Optimization** and efficient query design
+
+---
+
+## 📮 Let's Build Something Amazing Together!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatime-dadi-4842762a5/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow%20My%20Journey-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/fatimeword34251)
+[![Email](https://img.shields.io/badge/Email-Collaborate%20With%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatimewordou@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+**"Code is poetry, and every project is a new verse waiting to be written."**
+
+⭐ *From Kigali with love* ⭐
+
+</div>
