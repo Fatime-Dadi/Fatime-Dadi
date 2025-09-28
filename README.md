@@ -56,7 +56,7 @@
 > **"I believe in building software that not only functions flawlessly but also tells a story. My multicultural background (French & Arabic fluency with intermediate English) gives me a unique perspective on creating inclusive, user-centered applications."**
 
 ### Current Focus Areas:
-- 🔷 **Advanced Web Applications** with React & Spring Boot
+- 🔷 **Web Applications** with React & Spring Boot
 - 📈 **Data Visualization** using Power BI and Python
 - 🎨 **UI/UX Design** principles for better user experiences
 - 🗃️ **Database Optimization** and efficient query design
